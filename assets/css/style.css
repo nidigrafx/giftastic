@@ -1,0 +1,41 @@
+button, div, form, input {
+	margin: 8px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+label {
+    color: rgb(255, 8, 8);
+}
+
+.btn-default {
+    color: rgb(38, 0, 255);
+    font-size: medium;
+}
+
+body {
+	background-image: url("../images/HD-NBA-Wallpapers.jpg");
+    font-family: 'Pacifico', cursive;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.holder {
+    float: left;
+}
+
+.jumbotron {
+    text-align: center;
+    color: red;
+    background-image: url("../images/1.jpg");
+    background-size: cover;
+    height: 20%;
+}
+#header .bottom-header {
+    padding-top: 240px;
+    padding-bottom: 280px;
+}
+
